@@ -1,0 +1,42 @@
+Page 1
+Abhinav Gonthina
+gonthina.a@northeastern.edu | linkedin.com/in/abhinavgonthina | github.com/AbhinavGonthina | abhinavgonthina.me
+
+Boston, MA | Available January - August 2026 | 610-500-3172
+
+Education
+Northeastern University, Boston, MA B.S. in Computer Science, GPA: 4.0/4.0, John Martinson Honors Program Expected Graduation: August 2027
+
+Relevant Coursework: Algorithms & Data, Object-Oriented Design, Cloud Computing, Introduction to Databases, Computer Systems, Foundations of Data Science, Foundations of Cybersecurity, Logic and Computation
+
+Technical Skills
+Languages: JavaScript/TypeScript | Java | Python | SQL | R | HTML | CSS Frameworks/Libraries: React | Node.js/Express.js | Prisma | Tailwind CSS | Material UI | JUnit | Vitest Tools/Services: Git | GitHub | PostgreSQL | MySQL | Postman | Docker | Figma
+
+Experience
+Quak Travel | Software Engineer Intern (Remote) March 2025 – Present
+
+Architected hotel booking, payment-splitting, and itinerary features with RESTful APIs using Express, Prisma, and TypeScript, delivering a prototype 33% faster than scheduled and helping secure $30,000 in funding.
+Implementing a cross-platform frontend redesign using React, Tailwind CSS, and Material UI, translating Figma mockups into production-ready feature components.
+Integrating Redis caching system into hotel searching, reducing query latency by up to 80% for high-traffic destinations and increasing overall API fetching efficiency.
+Rainfall Learning | Software Technical Lead (Remote) June 2025 – Present
+
+Auditing and managing GitHub deliverables, driving the implementation of curricula, scheduling, and interface features, streamlining collaboration across a cross-functional team of 20+ developers and designers.
+Directing Internal Tooling team of 4 developers to integrate a B2B payment system using Express and Stripe API, enabling transactions from tutees to tutors.
+Constructing earnings logic and Stripe transaction routes using Prisma to develop financial analysis, Stripe onboarding, and payment intent endpoints for users.
+Northeastern: Khoury College of Computer Sciences | Teaching Assistant (Boston, MA) August 2025 – Present
+
+Supporting a cohort of 500+ students in mastering Discrete Structures topics including combinatorics, graph theory, algorithmic efficiency, logic, induction, and proofs.
+Supplementing student learning through recitations with 30+ students, weekly office hours, addressing questions via Piazza, and delivering detailed feedback on assignments.
+Northeastern Electric Racing | Software Engineer (Boston, MA) January 2025 – Present
+
+Engineered a scalable parts overview component using React and Material UI with description, status, and notification features, resulting in enhanced ticket visibility and reviewing efficiency.
+Developing custom components and expanding backend services/hooks (Express, Prisma) for a PDF parsing system, collaborating via Git version control workflows to deliver new FinishLine website features.
+Projects
+CoDesign | Frontend Engineer January – March 2025
+
+Spearheaded frontend development for posts, profiles, messaging, matchmaking, and authentication, engineering reusable UI components using React and Tailwind CSS.
+Deployed platform on Netlify and showcased key social media features to 100+ people at Northeastern’s Oasis Demo Day, resulting in positive feedback related to user experience and scope.
+RoadQuest | Frontend Engineer February 2025
+
+Assembled key frontend features involving authentication, leaderboards, and dynamic quest generation using React and Tailwind CSS to ensure a seamless user experience for real-time gameplay.
+Presented prototype at HackBeanpot, demonstrating road quest formation and live user authentication.

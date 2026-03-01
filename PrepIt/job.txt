@@ -1,0 +1,34 @@
+    Job Title: Software Engineer, New Grad (L3)
+    Company: Google
+    Location: Mountain View, CA (Hybrid)
+
+    About the Role:
+    We are looking for a Software Engineer to join one of our core product teams.
+    You will design, develop, test, and maintain software solutions that scale to
+    billions of users. You'll collaborate with cross-functional teams to ship
+    high-quality features and contribute to technical decisions.
+
+    Responsibilities:
+    - Design and implement scalable backend services and APIs
+    - Write clean, maintainable, and well-tested code in Python, Java, or C++
+    - Participate in code reviews and contribute to engineering best practices
+    - Debug and resolve production issues across large distributed systems
+    - Collaborate with product managers, designers, and other engineers
+    - Contribute to system design discussions and architecture decisions
+
+    Minimum Qualifications:
+    - Bachelor's degree in Computer Science or related field
+    - Experience with data structures, algorithms, and system design
+    - Proficiency in at least one of: Python, Java, C++, or Go
+    - Experience with REST APIs and backend development
+
+    Preferred Qualifications:
+    - Experience with distributed systems or cloud infrastructure (GCP, AWS)
+    - Familiarity with CI/CD pipelines and DevOps practices
+    - Contributions to open source projects
+    - Experience with React or other frontend frameworks
+    - Internship or co-op experience in software engineering
+
+    Compensation:
+    - Base salary: $130,000 - $160,000
+    - Equity + bonus + full benefits

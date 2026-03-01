@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "subconscious-dev": {
+      "source": "subconscious-systems/skills",
+      "sourceType": "github",
+      "computedHash": "5a38c553b7f13d3ee2879dce7882eceec5a11097cbfa41cf5e9e693561eef4be"
+    }
+  }
+}
